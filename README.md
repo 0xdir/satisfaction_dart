@@ -1,5 +1,5 @@
-[![pub package](https://img.shields.io/pub/v/satifaction.svg)](https://pub.dev/packages/satifaction)
-[![package publisher](https://img.shields.io/pub/publisher/satifaction.svg)](https://pub.dev/packages/satifaction/publisher)
+[![pub package](https://img.shields.io/pub/v/satisfaction.svg)](https://pub.dev/packages/satisfaction)
+[![package publisher](https://img.shields.io/pub/publisher/satisfaction.svg)](https://pub.dev/packages/satisfaction/publisher)
 
 [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png "Buy Me A Coffee")](https://www.buymeacoffee.com/0xdir "Buy Me A Coffee")
 

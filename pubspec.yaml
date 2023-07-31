@@ -1,6 +1,6 @@
 name: satisfaction
 description: A collection of customer satisfaction scores and metrics used by businesses to measure and assess customer satisfaction.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/0xdir/satisfaction_dart
 
 funding:
